@@ -30,8 +30,8 @@
 
 <br>
 
-![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-Steve&count-private=true&show_icons=true&bg_color=100f19&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iOS-Steve&theme=tokyonight)](https://git.io/streak-stats)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=devBeomsu&count-private=true&show_icons=true&bg_color=100f19&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devBeomsu&theme=tokyonight)](https://git.io/streak-stats)
 
 <br>
   
@@ -39,7 +39,7 @@
   
 <br>
 
-[![Steve's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iOS-Steve&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rafael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devBeomsu&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <br>
 
@@ -53,6 +53,6 @@
 
 |Mail 📨|Instagram ⭐️|
 |:--:|:--:|
-|rafa71802937@gmail.com|[@rafael_s_00](https://www.instagram.com/rafael_s_00/?hl=ko)|
+|rafa71802937@gmail.com|[@rafael_s_00](https://www.instagram.com/rafael_s_00)|
 
 </div>
