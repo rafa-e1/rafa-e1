@@ -53,6 +53,6 @@
 
 |Mail 📨|Instagram ⭐️|
 |:--:|:--:|
-|rafa71802937@gmail.com|[@rafael_s_00](https://www.instagram.com/rafael_s_00)|
+|rafa71802937@gmail.com|[@devrafa.el](https://www.instagram.com/devrafa.el/)|
 
 </div>
