@@ -1,9 +1,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevBeomsu&count_bg=%2337945F&title_bg=%23000000&icon=apple.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=292A30&lines=Hello+&font=Lobster&size=50&height=80)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=292A30&lines=Hello+&font=Lobster&size=50&height=80)](https://git.io/typing-svg)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🔥🧑🏻‍💻📱🔥&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🔥🧑🏻‍💻📱🔥&fontAlign=70)-->
 
 <!--[![Rafael's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=devBeomsu&show_icons=true&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/devBeomsu/github-readme-stats#gh-dark-mode-only) 
 [![Rafael's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=devBeomsu&show_icons=true&theme=swift#gh-light-mode-only)](https://github.com/devBeomsu/github-readme-stats#gh-light-mode-only) [![GitHub Streak-Dark](https://github-readme-streak-stats.herokuapp.com/?user=devBeomsu&theme=codeSTACKr#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only) [![GitHub Streak-Light](https://github-readme-streak-stats.herokuapp.com/?user=devBeomsu&theme=swift#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)-->
@@ -39,11 +39,6 @@
 [![Solved.ac
 Rafael](http://mazassumnida.wtf/api/v2/generate_badge?boj=RAFAEL)](https://solved.ac/profile/rafael)
 
-<br>
-
-## TROPHY 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=devBeomsu&theme=flat&column=7)](https://github.com/devBeomsu/) 
-  
 <br>
 
 ## GRAPH 📈
