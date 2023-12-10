@@ -31,7 +31,7 @@
 <br>
 
 ## CONTACT 🤙
-<a href="rafa71802937@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" width="110px"/></a> <a href="https://www.instagram.com/devrafa.el/" target="_blank"><img src="https://img.shields.io/badge/@devrafa.el-white?style=flat-square&logo=Instagram&logoColor=E4405F" width="170px"/></a>
+<a href="mailto:rafa71802937@gmail.com" target="_ blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" width="110px"/></a> <a href="https://www.instagram.com/devrafa.el/" target="_ blank"><img src="https://img.shields.io/badge/@devrafa.el-white?style=flat-square&logo=Instagram&logoColor=E4405F" width="170px"/></a>
 
 <br>
 
