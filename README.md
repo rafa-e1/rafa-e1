@@ -1,26 +1,43 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frafa-e1&count_bg=%2337945F&title_bg=%23000000&icon=apple.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com) 
 
-[![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa-e1&show_icons=true&theme=swift)](https://github.com/rafa-e1/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafa-e1&theme=swift)](https://git.io/streak-stats)
+<div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=348858&height=300&section=header&text=Code%20with%20Heart.&fontSize=90&fontColor=000000&animation=twinkling)
 
 <br>
 
 ## SKILL 💻
 ### LANGUAGE
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" width="80px"/> 
-
-### TOOL
-<img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black" width="90px"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white" width="100px"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" width="85px"/>
-
-<img src="https://img.shields.io/badge/Figma-0c0e12?style=flat-square&logo=figma&logoColor=white" width="95px"/> <img src="https://img.shields.io/badge/Sketch-white?style=flat-square&logo=Sketch&logoColor=F7B500" width="100px"/> 
-
-<img src="https://img.shields.io/badge/GitKraken-black?style=flat-square&logo=gitkraken&logoColor=#179287" width="130px"/>
-
-<!--## BOJ 🔥
-[![Solved.ac
-Rafael](http://mazassumnida.wtf/api/v2/generate_badge?boj=RAFAEL)](https://solved.ac/profile/rafael)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-e1&layout=compact) 
 
 <br>
 
+### TOOL
+<img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=notion&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Figma-0c0e12?style=flat&logo=figma&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Sketch-white?style=flat&logo=Sketch&logoColor=F7B500" /> 
+
+<img src="https://img.shields.io/badge/GitKraken-black?style=flat&logo=gitkraken&logoColor=#179287" />
+
+<br>
+<br>
+
+## PIN 🔥
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafa-e1&repo=Profile-Settings)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafa-e1&repo=PastPaper)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafa-e1&repo=iNeptune)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafa-e1&repo=WhatTheName)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=RAFAEL)](https://solved.ac/profile/rafael)
+[![](https://github-readme-stats.vercel.app/api?username=rafa-e1&show_icons=true&theme=swift)](https://github.com/rafa-e1/github-readme-stats)-->
+
+<br>
+<br>
+
 ## GRAPH 📈
-[![Rafa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafa-e1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+[![](https://github-readme-activity-graph.vercel.app/graph?username=rafa-e1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
