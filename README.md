@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=348858&height=300&section=header&text=Code%20with%20Heart.&fontSize=90&fontColor=000000&animation=twinkling&transparent)
+![header](https://capsule-render.vercel.app/api?type=venom&color=348858&height=300&section=header&text=Code%20with%20Heart.&stroke=ffffff&fontSize=90&fontColor=000000&animation=twinkling)
 
 <br>
 
