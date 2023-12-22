@@ -8,8 +8,8 @@
 
 ## SKILL 💻
 ### LANGUAGE
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-e1&layout=compact&theme=vue-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-e1&layout=compact&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-e1&layout=compact&theme=vue-dark&border_color=348858&title_color=000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-e1&layout=compact&theme=vue&border_color=348858&title_color=000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ### TOOL
 <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=notion&logoColor=black" /> 
