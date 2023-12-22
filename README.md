@@ -25,7 +25,7 @@
 <br>
 <br>
 
-## PIN 🔥
+## PINNED 📌
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafa-e1&repo=Profile-Settings)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafa-e1&repo=PastPaper)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafa-e1&repo=iNeptune)](https://github.com/anuraghazra/github-readme-stats)
