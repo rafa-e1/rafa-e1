@@ -7,7 +7,7 @@
 <!--[![Rafael's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rafa-e1&show_icons=true&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/rafa-e1/github-readme-stats#gh-dark-mode-only) 
 [![Rafael's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rafa-e1&show_icons=true&theme=swift#gh-light-mode-only)](https://github.com/rafa-e1/github-readme-stats#gh-light-mode-only) [![GitHub Streak-Dark](https://github-readme-streak-stats.herokuapp.com/?user=rafa-e1&theme=codeSTACKr#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only) [![GitHub Streak-Light](https://github-readme-streak-stats.herokuapp.com/?user=rafa-e1&theme=swift#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)-->
 
-[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa-e1&show_icons=true&theme=swift)](https://github.com/rafa-e1/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafa-e1&theme=swift)](https://git.io/streak-stats)
+[![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa-e1&show_icons=true&theme=swift)](https://github.com/rafa-e1/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafa-e1&theme=swift)](https://git.io/streak-stats)
 
 <br>
 
