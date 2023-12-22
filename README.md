@@ -8,7 +8,8 @@
 
 ## SKILL 💻
 ### LANGUAGE
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-e1&layout=compact) 
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-e1&layout=compact&theme=vue-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-e1&layout=compact&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <br>
 
@@ -25,17 +26,14 @@
 <br>
 <br>
 
-## PINNED 📌
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafa-e1&repo=Profile-Settings)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafa-e1&repo=PastPaper)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafa-e1&repo=iNeptune)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafa-e1&repo=WhatTheName)](https://github.com/anuraghazra/github-readme-stats)
+<!--## PINNED 📌
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafa-e1&repo=Profile-Settings&theme=vue)](https://github.com/rafa-e1/Profile-Settings)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafa-e1&repo=PastPaper&theme=vue)](https://github.com/rafa-e1/PastPaper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafa-e1&repo=iNeptune&theme=vue)](https://github.com/rafa-e1/iNeptune)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafa-e1&repo=WhatTheName&theme=vue)](https://github.com/rafa-e1/WhatTheName)
 
-<!--[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=RAFAEL)](https://solved.ac/profile/rafael)
+[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=RAFAEL)](https://solved.ac/profile/rafael)
 [![](https://github-readme-stats.vercel.app/api?username=rafa-e1&show_icons=true&theme=swift)](https://github.com/rafa-e1/github-readme-stats)-->
-
-<br>
-<br>
 
 ## GRAPH 📈
 [![](https://github-readme-activity-graph.vercel.app/graph?username=rafa-e1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
