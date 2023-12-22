@@ -11,8 +11,6 @@
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-e1&layout=compact&theme=vue-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-e1&layout=compact&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-<br>
-
 ### TOOL
 <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=notion&logoColor=black" /> 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" /> 
