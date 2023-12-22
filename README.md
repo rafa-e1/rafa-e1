@@ -1,13 +1,13 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevBeomsu&count_bg=%2337945F&title_bg=%23000000&icon=apple.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frafa-e1&count_bg=%2337945F&title_bg=%23000000&icon=apple.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=292A30&lines=Hello+&font=Lobster&size=50&height=80)](https://git.io/typing-svg)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🔥🧑🏻‍💻📱🔥&fontAlign=70)-->
 
-<!--[![Rafael's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=devBeomsu&show_icons=true&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/devBeomsu/github-readme-stats#gh-dark-mode-only) 
-[![Rafael's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=devBeomsu&show_icons=true&theme=swift#gh-light-mode-only)](https://github.com/devBeomsu/github-readme-stats#gh-light-mode-only) [![GitHub Streak-Dark](https://github-readme-streak-stats.herokuapp.com/?user=devBeomsu&theme=codeSTACKr#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only) [![GitHub Streak-Light](https://github-readme-streak-stats.herokuapp.com/?user=devBeomsu&theme=swift#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)-->
+<!--[![Rafael's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rafa-e1&show_icons=true&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/rafa-e1/github-readme-stats#gh-dark-mode-only) 
+[![Rafael's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rafa-e1&show_icons=true&theme=swift#gh-light-mode-only)](https://github.com/rafa-e1/github-readme-stats#gh-light-mode-only) [![GitHub Streak-Dark](https://github-readme-streak-stats.herokuapp.com/?user=rafa-e1&theme=codeSTACKr#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only) [![GitHub Streak-Light](https://github-readme-streak-stats.herokuapp.com/?user=rafa-e1&theme=swift#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)-->
 
-[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=devBeomsu&show_icons=true&theme=swift)](https://github.com/devBeomsu/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devBeomsu&theme=swift)](https://git.io/streak-stats)
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa-e1&show_icons=true&theme=swift)](https://github.com/rafa-e1/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafa-e1&theme=swift)](https://git.io/streak-stats)
 
 <br>
 
@@ -41,5 +41,5 @@ Rafael](http://mazassumnida.wtf/api/v2/generate_badge?boj=RAFAEL)](https://solve
 <br>
 
 ## GRAPH 📈
-[![Rafa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devBeomsu&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rafa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafa-e1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
