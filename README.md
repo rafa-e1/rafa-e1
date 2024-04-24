@@ -35,7 +35,7 @@
 - Operation of Swiftiverse Study / (24.04.01~)<br>
 - 2nd Place in 5th UMC Busan HACKATHON: [Sophie(Precious Blood)](https://github.com/UMC-5th-Hackathon-N-Team/FE-iOS/tree/develop) - (24.01.04~24.01.05)<br>
 - Participation in the Mobile App Developer's Conference: [Participation Review](https://velog.io/@rafa/1stConference) - (23.12.02)<br>
-- UMC 5th University IT Alliance Club iOS Part Leader: [iNeptune](https://github.com/iNeptune-Code-Adventurers/iNeptune) - (23.09~23.12)<br>
+- UMC 5th University IT Alliance Club iOS Leader: [iNeptune](https://github.com/iNeptune-Code-Adventurers/iNeptune) - (23.09~23.12)<br>
 - Operation of Swift Study - (22.05~22.10)<br>
 - UMC 2nd University IT Alliance Club iOS Member - (22.03~22.08)<br>
 
