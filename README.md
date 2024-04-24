@@ -8,6 +8,8 @@
 <br>
 
 ## PROJECT 📱
+<div align=left>
+  
 **< SIDE PROJECT >**
 | 프로젝트명 | [HowsTheWear](https://github.com/rafa-e1/HowsTheWear-iOS) -  23.12.29~24.02.21 (54일) |
 |:--|:--|
@@ -22,6 +24,8 @@
 |:--|:--|
 | 설명 | 닉네임, 한 줄 프로필, 자기소개, 연결할 웹 사이트를 작성하는 폼 |
 | 스킬 | UIKit - Storyboard, UserDefaults, SafariServices, PanModal |
+
+</div>
 
 <br>
 
