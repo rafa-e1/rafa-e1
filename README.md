@@ -13,8 +13,8 @@
 **< TEAM PROJECT >**
 | Project Name | [HowsTheWear](https://github.com/rafa-e1/HowsTheWear-iOS) -  23.12.29~24.02.21 (54 days) |
 |:--|:--|
-| Description | An app that recommends clothing based on the user's location and weather, offering a diverse fashion community |
-| Responsibilities | Onboarding, Tab Bar, Home Screen, Post Creation Page |
+| Description | 사용자의 위치와 날씨를 기반으로 옷을 추천해주며 다양한 패션 커뮤니티를 제공하는 앱 |
+| Responsibilities | 온보딩, 탭바, 날씨 정보 페이지, 게시글 작성 페이지 |
 | Skills | UIKit - Codebase, CoreLocation, WeatherKit, SnapKit, Then, CocoaPods, MVC |
 
 <br>
@@ -22,7 +22,7 @@
 **< PERSONAL PROJECT >**
 | Project Name | [Profile-Settings](https://github.com/rafa-e1/Profile-Settings) -  23.04.23~23.04.30 (7 days) |
 |:--|:--|
-| Description | A form to enter a nickname, a one-line profile, a self-introduction, and a website to link to |
+| Description | 닉네임, 프로필 한줄, 자기소개, URL 링크 입력에 대한 정규성 검사를 구현한 프로젝트 |
 | Skills | UIKit - Storyboard, UserDefaults, SafariServices, PanModal |
 
 </div>
@@ -32,12 +32,12 @@
 ## ACTIVITY ✨
 <div align=left>
   
-- Operation of Swiftiverse Study / (24.04.01~)<br>
-- 2nd Place in 5th UMC Busan HACKATHON: [Sophie(Precious Blood)](https://github.com/UMC-5th-Hackathon-N-Team/FE-iOS/tree/develop) - (24.01.04~24.01.05)<br>
-- Participation in the Mobile App Developer's Conference: [Participation Review](https://velog.io/@rafa/1stConference) - (23.12.02)<br>
-- UMC 5th University IT Alliance Club iOS Leader: [iNeptune](https://github.com/iNeptune-Code-Adventurers/iNeptune) - (23.09~23.12)<br>
-- Operation of Swift Study - (22.05~22.10)<br>
-- UMC 2nd University IT Alliance Club iOS Member - (22.03~22.08)<br>
+- 'Swiftiverse' 스터디 운영 / (24.04.01~)<br>
+- 5th UMC Busan HACKATHON 2위: [소피(소중한 피)](https://github.com/UMC-5th-Hackathon-N-Team/FE-iOS/tree/develop) - (24.01.04~24.01.05)<br>
+- Mobile App Developer's Conference 참석: [참석 후기](https://velog.io/@rafa/1stConference) - (23.12.02)<br>
+- 대학교 IT 연합 동아리 UMC 5기 iOS 파트장: [iNeptune](https://github.com/iNeptune-Code-Adventurers/iNeptune) - (23.09~23.12)<br>
+- 'Swift Study' 스터디 운영 - (22.05~22.10)<br>
+- 대학교 IT 연합 동아리 UMC 2기 iOS 파트원 - (22.03~22.08)<br>
 
 </div>
 
