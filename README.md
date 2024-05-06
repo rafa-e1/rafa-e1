@@ -31,7 +31,8 @@
 
 ## ACTIVITY ✨
 <div align=left>
-  
+
+- 부울경 iOS 개발자 채팅방 운영: [채팅방 링크](https://open.kakao.com/o/gsa7zdpg) / (24.05.01~)<br>
 - 'Swiftiverse' 스터디 운영 / (24.04.01~)<br>
 - 5th UMC Busan HACKATHON 2위: [소피(소중한 피)](https://github.com/UMC-5th-Hackathon-N-Team/FE-iOS/tree/develop) - (24.01.04~24.01.05)<br>
 - Mobile App Developer's Conference 참석: [참석 후기](https://velog.io/@rafa/1stConference) - (23.12.02)<br>
