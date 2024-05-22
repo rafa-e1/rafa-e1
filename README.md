@@ -13,17 +13,17 @@
 **< 팀 프로젝트 >**
 | 프로젝트명 | [HowsTheWear](https://github.com/rafa-e1/HowsTheWear-iOS) -  23.12.29~24.02.21 (54 days) |
 |:--|:--|
-| 설명 | 사용자의 위치와 날씨를 기반으로 옷을 추천해주며 다양한 패션 커뮤니티를 제공하는 앱 |
+| 설명 | 사용자의 위치를 기반으로 요일별 날씨와 온도에 따른 패션 정보를 제공하는 앱 |
 | 담당 | 온보딩, 탭바, 날씨 정보 페이지, 게시글 작성 페이지 |
 | 스킬 | UIKit - Codebase, CoreLocation, WeatherKit, SnapKit, Then, CocoaPods, MVC |
 
 <br>
 
-**< 개인 프로젝트 >**
+<!--**< 개인 프로젝트 >**
 | 프로젝트명 | [Profile-Settings](https://github.com/rafa-e1/Profile-Settings) -  23.04.23~23.04.30 (7 days) |
 |:--|:--|
 | 설명 | 닉네임, 프로필 한줄, 자기소개, URL 링크 입력에 대한 정규성 검사를 구현한 프로젝트 |
-| 스킬 | UIKit - Storyboard, UserDefaults, SafariServices, PanModal |
+| 스킬 | UIKit - Storyboard, UserDefaults, SafariServices, PanModal |-->
 
 </div>
 
