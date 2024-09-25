@@ -17,13 +17,19 @@
 | 담당 | 온보딩, 탭바, 날씨 정보 페이지, 게시글 작성 페이지 |
 | 스킬 | UIKit - Codebase, CoreLocation, WeatherKit, SnapKit, Then, CocoaPods, MVC |
 
+| 프로젝트명 | [읽을거리](https://github.com/BOOK-TALK/Readables-iOS) - 24.07.22~ |
+|:--|:--|
+| 설명 | 정보나루 API를 활용한 사용자 맞춤형 도서 추천 앱 |
+| 담당 | 로그인 UI, 탭바, 홈 UI, 책 상세페이지 UI, 마이페이지 UI |
+| 스킬 | UIKit - Codebase, CoreLocation, WeatherKit, SnapKit, Then, CocoaPods, MVVM |
+
 <br>
 
-<!--**< 개인 프로젝트 >**
-| 프로젝트명 | [Profile-Settings](https://github.com/rafa-e1/Profile-Settings) -  23.04.23~23.04.30 (7 days) |
+**< 개인 프로젝트 >**
+| 프로젝트명 | [밀리세컨드](https://github.com/rafa-e1/Millisecond) -  24.09.13~24.09.25 (13 days) |
 |:--|:--|
-| 설명 | 닉네임, 프로필 한줄, 자기소개, URL 링크 입력에 대한 정규성 검사를 구현한 프로젝트 |
-| 스킬 | UIKit - Storyboard, UserDefaults, SafariServices, PanModal |-->
+| 설명 | 반응 속도 테스트 앱 |
+| 스킬 | UIKit - Codebase, RxSwift, RxCocoa, SnapKit, Then, CocoaPods, MVVM |
 
 </div>
 
@@ -33,7 +39,7 @@
 <div align=left>
 
 - 부울경 iOS 개발자 채팅방 운영: [채팅방 링크](https://open.kakao.com/o/gsa7zdpg) / (24.05.01~)<br>
-- 'Swiftiverse' 스터디 운영 / (24.04.01~)<br>
+<!--- 'Swiftiverse' 스터디 운영 / (24.04.01~)<br>-->
 - 5th UMC Busan HACKATHON 2위: 소피(소중한 피) - (24.01.04~24.01.05)<br>
 - Mobile App Developer's Conference 참석: [참석 후기](https://rafa.oopy.io/conference0-retrospect) - (23.12.02)<br>
 - 대학교 IT 연합 동아리 UMC 5기 iOS 파트장: [iNeptune](https://github.com/iNeptune-Code-Adventurers/iNeptune) - (23.09~23.12)<br>
