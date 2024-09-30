@@ -26,7 +26,7 @@
 <br>
 
 **< 개인 프로젝트 >**
-| 프로젝트명 | [밀리세컨드](https://github.com/rafa-e1/Millisecond) -  24.09.13~24.09.25 (13 days) |
+| 프로젝트명 | [밀리세컨드](https://github.com/rafa-e1/Millisecond) -  24.09.13~ |
 |:--|:--|
 | 설명 | 반응 속도 테스트 앱 |
 | 스킬 | UIKit - Codebase, RxSwift, RxCocoa, SnapKit, Then, CocoaPods, MVVM |
