@@ -29,13 +29,3 @@
 - 대학생 연합 IT 동아리 UMC 2기 iOS 파트원 - (22.03~22.08)<br>
 
 </div>
-
-<br>
-
-## LANGUAGE & TOOL 💻
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-e1&layout=compact&theme=vue-dark&border_color=348858&bg_color=0D1117&title_color=ffffff#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-e1&layout=compact&theme=vue&border_color=348858&title_color=000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![My Skills](https://skillicons.dev/icons?i=swift,git,github,notion,figma,discord)](https://skillicons.dev)
-
-</div>
