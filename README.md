@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frafa-e1&count_bg=%2337945F&title_bg=%23000000&icon=apple.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com) 
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Frafa-e1&label=HITS&icon=apple&color=%23198754)
 
 <div align=center>
 
@@ -19,13 +19,10 @@
 
 ## ACTIVITY ✨
 <div align=left>
-
+  
 - 대학생 연합 IT 벤처 창업 동아리 SOPT 35기 iOS YB - (24.09~25.02)<br>
-- 부울경 iOS 개발자 채팅방 운영: [채팅방 링크](https://open.kakao.com/o/gsa7zdpg) - (24.05.01~)<br>
 - 5th UMC HACKATHON 2위: 소피(소중한 피) - (24.01.04~24.01.05)<br>
-- Mobile App Developer's Conference 참석: [참석 후기](https://rafa.oopy.io/conference0-retrospect) - (23.12.02)<br>
 - 대학생 연합 IT 동아리 UMC 5기 iOS 파트장: [iNeptune](https://github.com/iNeptune-Code-Adventurers/iNeptune) - (23.09~23.12)<br>
-- 'Swift Study' 스터디 운영 - (22.05~22.10)<br>
 - 대학생 연합 IT 동아리 UMC 2기 iOS 파트원 - (22.03~22.08)<br>
 
 </div>
