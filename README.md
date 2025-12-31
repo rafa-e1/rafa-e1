@@ -20,7 +20,7 @@
 ## ACTIVITY ✨
 <div align=left>
   
-- 대학생 연합 IT 벤처 창업 동아리 SOPT 35기 iOS YB - (24.09~25.02.01)<br>
+- 대학생 연합 IT 벤처 창업 동아리 SOPT 35기 iOS YB - (24.09.26~25.02.01)<br>
 - 5th UMC HACKATHON 2위: 소피(소중한 피) - (24.01.04~24.01.05)<br>
 - 대학생 연합 IT 동아리 UMC 5기 iOS 파트장: [iNeptune](https://github.com/iNeptune-Code-Adventurers/iNeptune) - (23.09~24.02)<br>
 - 대학생 연합 IT 동아리 UMC 2기 iOS 파트원 - (22.03~22.08)<br>
