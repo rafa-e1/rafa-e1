@@ -1,5 +1,14 @@
 # PROJECTS
 
+### KookaRide
+> [Download on the App Store](https://apps.apple.com/au/app/kookaride/id6785360237)
+
+| Description | Bus & coach timetable app for Mackay, Australia |
+|:---|:---|
+| Role | Solo iOS (design, build, ship) |
+| Stack | SwiftUI (MVVM), GRDB, ActivityKit, MapKit |
+| Duration | 12/06/2026 - Present |
+
 ### Crushhh
 
 | Description | Anonymous compliment voting app for teens |
